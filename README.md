@@ -5,5 +5,5 @@
 <sub>Es un efecto hover sencillo el cual está consinete de la posición del mouse al entrar en contacto con la imagen por ende el efecto empieza y termina del lado por dónde pasa el ratón.</sub>
 </p>
 
-<p align="center" ![Demo](https://raw.githubusercontent.com/TaynisRW/Direction-Aware-Image-Hover-Effect/main/img/Demo.gif "Demo") </p>
+<p align="center"> ![Demo](https://raw.githubusercontent.com/TaynisRW/Direction-Aware-Image-Hover-Effect/main/img/Demo.gif "Demo") </p>
 
